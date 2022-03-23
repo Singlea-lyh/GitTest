@@ -8,3 +8,5 @@
   一次推送全部tag git push origin --tags
   删除标签 git tag -d <tag_name>//删除本地标签，git tag -d v2.7.0.0
   删除已推送到远程的标签 git push origin ：refs/tags/<tag_name>”//先删除本地的
+  
+  -------------------------------------------------------------
